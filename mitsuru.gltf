@@ -6,6 +6,17 @@
     "scene" : 0,
     "scenes" : [
         {
+            "extras" : {
+                "glTF2ExportSettings" : {
+                    "export_cameras" : 0,
+                    "export_copyright" : "",
+                    "export_extras" : 1,
+                    "export_format" : "GLTF_SEPARATE",
+                    "export_image_format" : "JPEG",
+                    "export_texture_dir" : "",
+                    "use_selection" : 0
+                }
+            },
             "name" : "Scene",
             "nodes" : [
                 370
